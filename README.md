@@ -1,6 +1,5 @@
 PROYECTO DE INGENIERIA
 [Nombre del Proyecto].github.io
-Por si la página web no funciona o hay algún inconveniente.
 
 <h1 align="center">[Nombre del Proyecto]</h1>
 "Escribe una cita relevante o inspiradora para tu proyecto." (Autor)
