@@ -7,7 +7,7 @@
 
 ## Bienvenido 😎
 
-¡El grupo **[GRUPO 5]** les da la bienvenida a nuestro sitio web! Este es el lugar donde documentamos nuestra pasión, avances y resultados en el desarrollo de nuestro proyecto.
+¡El grupo **GRUPO 5** les da la bienvenida a nuestro sitio web! Este es el lugar donde documentamos nuestra pasión, avances y resultados en el desarrollo de nuestro proyecto.
 
 ## 📑 **Tabla de Contenidos** 📑
 
