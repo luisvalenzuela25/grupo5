@@ -24,13 +24,13 @@
 
 ## 🚀 **Misión**
 
-Nuestra misión es **[explicar el propósito principal de tu proyecto]**. Buscamos **[beneficios o impacto]** a través de **[cómo planean lograrlo]**. Nos enfocamos en soluciones innovadoras que puedan transformar el futuro del **[campo de aplicación]**.
+Nuestra misión es explicar el propósito principal de tu proyecto. Buscamos beneficios o impacto a través de cómo planean lograrlo. Nos enfocamos en soluciones innovadoras que puedan transformar el futuro del campo de aplicación.
 
 ---
 
 ## 🌱 **Visión**
 
-Nuestra visión es **[explicar lo que aspiran a lograr en el futuro con el proyecto]**. Queremos **[objetivo a largo plazo o meta]**. A través de **[métodos, tecnología o enfoques]**, buscamos **[impacto positivo]**, creando un cambio tangible y sostenible para **[destinatarios o ámbito]**.
+Nuestra visión es explicar lo que aspiran a lograr en el futuro con el proyecto. Queremos objetivo a largo plazo o meta]**. A través de métodos, tecnología o enfoques, buscamos impacto positivo, creando un cambio tangible y sostenible para destinatarios o ámbito.
 
 ---
 
@@ -56,7 +56,7 @@ Nuestra visión es **[explicar lo que aspiran a lograr en el futuro con el proye
 
 ## 🔧 **Metodología**
 
-Nuestro enfoque es **[describir la metodología utilizada]**. Desarrollamos el proyecto en fases ágiles, utilizando las mejores prácticas y herramientas, tales como **[herramientas, lenguajes de programación, tecnologías o metodologías]**. Aquí está el proceso paso a paso:
+Nuestro enfoque es describir la metodología utilizada. Desarrollamos el proyecto en fases ágiles, utilizando las mejores prácticas y herramientas, tales como herramientas, lenguajes de programación, tecnologías o metodologías. Aquí está el proceso paso a paso:
 
 - **Investigación inicial**: Revisión de literatura y evaluación de soluciones actuales.
 - **Desarrollo de prototipos**: Testeo de soluciones de bajo costo.
