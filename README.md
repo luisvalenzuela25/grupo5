@@ -1,185 +1,92 @@
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>PROYECTO DE INGENIERÍA | [Nombre del Proyecto]</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
+# PROYECTO DE INGENIERÍA
 
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: linear-gradient(45deg, #6a5acd, #ff6347);
-      color: white;
-      line-height: 1.6;
-      padding: 20px;
-    }
+# **[Nombre del Proyecto]**
 
-    header {
-      text-align: center;
-      padding: 50px 0;
-      background: rgba(0, 0, 0, 0.4);
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      margin-bottom: 40px;
-    }
+> *"Escribe una cita relevante o inspiradora para tu proyecto."*  
+> **(Autor)**
 
-    header h1 {
-      font-size: 3.5rem;
-      font-weight: bold;
-      text-transform: uppercase;
-      letter-spacing: 3px;
-      animation: fadeIn 2s ease-in-out;
-    }
+---
 
-    header p {
-      font-size: 1.2rem;
-      font-style: italic;
-      color: #ffcd00;
-      margin-top: 10px;
-    }
+## Bienvenido 😎
 
-    @keyframes fadeIn {
-      0% { opacity: 0; }
-      100% { opacity: 1; }
-    }
+¡El grupo **[Nombre del Grupo]** les da la bienvenida a nuestro sitio web! Este es el lugar donde documentamos nuestra pasión, avances y resultados en el desarrollo de **[breve descripción del objetivo del proyecto]**. Aquí, cada parte de este proyecto refleja nuestro esfuerzo conjunto para hacer un impacto real.
 
-    section {
-      margin: 20px auto;
-      max-width: 1000px;
-      background: rgba(255, 255, 255, 0.1);
-      border-radius: 15px;
-      padding: 40px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
-      backdrop-filter: blur(5px);
-      transition: all 0.3s ease;
-    }
+---
 
-    section:hover {
-      transform: scale(1.03);
-    }
+## 📑 **Tabla de Contenidos** 📑
 
-    h2 {
-      color: #ff6347;
-      font-size: 2.5rem;
-      margin-bottom: 20px;
-      text-transform: uppercase;
-    }
+¡Navega a través de nuestro proyecto! Elige tu sección favorita y comienza a explorar lo que hemos creado. 🚀
 
-    h3 {
-      color: #fff;
-      font-size: 1.8rem;
-      margin-top: 30px;
-    }
+- [🔍 **Misión**](#mision) - **¿Qué nos impulsa?** La esencia de nuestro proyecto.
+- [🎯 **Visión**](#vision) - **¿Hacia dónde vamos?** Nuestro objetivo a largo plazo.
+- [🚀 **Objetivos**](#objetivos) - **Los hitos que estamos alcanzando.**
+- [🛠️ **Metodología**](#metodologia) - **Cómo trabajamos** para lograr el éxito.
+- [👥 **¿Quiénes somos?**](#quienes-somos) - **Conoce al equipo** detrás de esta innovadora idea.
+- [💬 **Contacto**](#contacto) - **¡Hablemos!** Conecta con nosotros para más información.
 
-    p {
-      font-size: 1.1rem;
-      color: #f5f5f5;
-      margin-bottom: 20px;
-    }
+---
 
-    ul {
-      list-style-type: none;
-      padding: 0;
-    }
+## 🚀 **Misión**
 
-    ul li {
-      background: rgba(255, 255, 255, 0.2);
-      margin-bottom: 12px;
-      padding: 10px;
-      border-radius: 8px;
-      border: 2px solid #ff6347;
-      transition: background-color 0.3s ease;
-    }
+Nuestra misión es **[explicar el propósito principal de tu proyecto]**. Buscamos **[beneficios o impacto]** a través de **[cómo planean lograrlo]**. Nos enfocamos en soluciones innovadoras que puedan transformar el futuro del **[campo de aplicación]**.
 
-    ul li:hover {
-      background-color: rgba(255, 255, 255, 0.4);
-    }
+---
 
-    a {
-      text-decoration: none;
-      color: #ffcd00;
-      font-weight: bold;
-      transition: color 0.3s ease;
-    }
+## 🌱 **Visión**
 
-    a:hover {
-      color: #ff6347;
-    }
+Nuestra visión es **[explicar lo que aspiran a lograr en el futuro con el proyecto]**. Queremos **[objetivo a largo plazo o meta]**. A través de **[métodos, tecnología o enfoques]**, buscamos **[impacto positivo]**, creando un cambio tangible y sostenible para **[destinatarios o ámbito]**.
 
-    footer {
-      text-align: center;
-      padding: 20px;
-      background: #1a1a1a;
-      color: #ffcd00;
-      margin-top: 40px;
-      border-radius: 10px;
-    }
-  </style>
-</head>
-<body>
+---
 
-<header>
-  <h1>[Nombre del Proyecto]</h1>
-  <p>"Escribe una cita relevante o inspiradora para tu proyecto." (Autor)</p>
-</header>
+## 🎯 **Objetivos**
 
-<section>
-  <h2>Bienvenido a nuestro Proyecto</h2>
-  <p>El grupo <strong>[Nombre del Grupo]</strong> les da la bienvenida a nuestro website, cuyo propósito es dar a conocer la documentación de nuestra trayectoria en el desarrollo de <span style="font-weight: bold; color: #ff6347;">[breve descripción del objetivo del proyecto]</span>. A través de esta página, podrás conocer más sobre nuestras ideas innovadoras y el impacto que buscamos generar en el ámbito de la ingeniería.</p>
-</section>
+### **Objetivo General:**
 
-<section>
-  <h2>Tabla de contenidos</h2>
-  <ul>
-    <li><a href="#mision">Misión</a></li>
-    <li><a href="#vision">Visión</a></li>
-    <li><a href="#objetivos">Objetivos</a></li>
-    <li><a href="#metodologia">Metodología</a></li>
-    <li><a href="#quienes-somos">¿Quiénes somos?</a></li>
-  </ul>
-</section>
+- **[Describe el objetivo principal de tu proyecto]**
 
-<section id="mision">
-  <h2>Misión</h2>
-  <p>Nuestra misión es <span style="font-weight: bold; color: #ff6347;">[explicar el propósito principal de tu proyecto]</span>. Buscamos <span style="font-weight: bold; color: #ff6347;">[beneficios o impacto]</span> a través de <span style="font-weight: bold; color: #ff6347;">[cómo planean lograrlo]</span>.</p>
-</section>
+### **Objetivos Específicos:**
 
-<section id="vision">
-  <h2>Visión</h2>
-  <p>Nuestra visión es <span style="font-weight: bold; color: #ff6347;">[explicar lo que aspiran a lograr en el futuro con el proyecto]</span>. Queremos <span style="font-weight: bold; color: #ff6347;">[objetivo a largo plazo o meta]</span>. A través de <span style="font-weight: bold; color: #ff6347;">[métodos, tecnología o enfoques]</span>, buscamos <span style="font-weight: bold; color: #ff6347;">[impacto positivo]</span>.</p>
-</section>
+- **[Objetivo específico 1]**
+- **[Objetivo específico 2]**
+- **[Objetivo específico 3]**
 
-<section id="objetivos">
-  <h2>Objetivos</h2>
-  <h3>Objetivo General:</h3>
-  <p><span style="font-weight: bold; color: #ff6347;">[Describe el objetivo principal de tu proyecto.]</span></p>
-  
-  <h3>Objetivos Específicos:</h3>
-  <ul>
-    <li>[Objetivo específico 1]</li>
-    <li>[Objetivo específico 2]</li>
-    <li>[Objetivo específico 3]</li>
-  </ul>
-</section>
+---
 
-<section id="metodologia">
-  <h2>Metodología</h2>
-  <p>[Explique la metodología o los pasos que seguirán para desarrollar el proyecto. Esto puede incluir el enfoque de investigación, las técnicas o herramientas que utilizarán, o cómo se organizarán.]</p>
-</section>
+## 🔧 **Metodología**
 
-<section id="quienes-somos">
-  <h2>¿Quiénes somos?</h2>
-  <ul>
-    <li><strong>LUIS VALENZUELA</strong> – [Breve descripción de Luis, sus habilidades o rol en el proyecto]</li>
-    <li><strong>KARLA ORDINOLA</strong> – [Breve descripción de Karla, sus habilidades o rol en el proyecto]</li>
-    <li><strong>ELVIS PILCO</strong> – [Breve descripción de Elvis, sus habilidades o rol en el proyecto]</li>
-  </ul>
-</section>
+Nuestro enfoque es **[describir la metodología utilizada]**. Desarrollamos el proyecto en fases ágiles, utilizando las mejores prácticas y herramientas, tales como **[herramientas, lenguajes de programación, tecnologías o metodologías]**. Aquí está el proceso paso a paso:
+
+- **Investigación inicial**: Revisión de literatura y evaluación de soluciones actuales.
+- **Desarrollo de prototipos**: Testeo de soluciones de bajo costo.
+- **Implementación**: Integración y prueba de soluciones a gran escala.
+- **Evaluación continua**: Feedback y optimización en tiempo real.
+
+---
+
+## 👥 **¿Quiénes somos?**
+
+El equipo **[Nombre del Grupo]** está compuesto por individuos apasionados que aportan diversas habilidades para hacer de este proyecto una realidad. Conoce a nuestro equipo:
+
+- **LUIS VALENZUELA** – **[Breve descripción de Luis, sus habilidades o rol en el proyecto]**
+- **KARLA ORDINOLA** – **[Breve descripción de Karla, sus habilidades o rol en el proyecto]**
+- **ELVIS PILCO** – **[Breve descripción de Elvis, sus habilidades o rol en el proyecto]**
+
+Cada miembro está comprometido con aportar su experiencia única y pasión para alcanzar las metas del proyecto.
+
+---
+
+## 📬 **¡Contáctanos!**
+
+Si tienes alguna duda o deseas saber más sobre nuestro proyecto, ¡no dudes en escribirnos! Siempre estamos abiertos a nuevas ideas, colaboraciones y comentarios. ✉️
+
+- **Email**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
+- **Redes Sociales**: [Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com)
+
+---
+
+### **[Nombre del Proyecto]**  
+**@** **[Año de creación]**
+
 
 <footer>
   <p>&copy; 2025 [Nombre del Proyecto]. Todos los derechos reservados.</p>
