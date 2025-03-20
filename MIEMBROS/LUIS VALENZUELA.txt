@@ -1,3 +1,4 @@
 LUIS MARTIN VALENZUELA VALER
 👋 ¡Hola! Soy Luis Martín Valenzuela Valer
-Estudiante de Ingeniería Informática en el quinto ciclo, con un profundo interés en el desarrollo de software y la ciberseguridad. Me apasiona la tecnología y cómo se puede utilizar para resolver problemas complejos, así como proteger los sistemas y datos en el mundo digital.
+Estudiante de Ingeniería Informática en el quinto ciclo, con un profundo interés en el desarrollo de software y la ciberseguridad.
+Me apasiona la tecnología y cómo se puede utilizar para resolver problemas complejos, así como proteger los sistemas y datos en el mundo digital.
