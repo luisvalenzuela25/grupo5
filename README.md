@@ -1,7 +1,5 @@
 # PROYECTO DE INGENIERÍA
 
-# **[Nombre del Proyecto]**
-
 > *"El único modo de hacer un gran trabajo es amar lo que haces."*  
 > **Steve Jobs**
 
@@ -9,9 +7,7 @@
 
 ## Bienvenido 😎
 
-¡El grupo **[Nombre del Grupo]** les da la bienvenida a nuestro sitio web! Este es el lugar donde documentamos nuestra pasión, avances y resultados en el desarrollo de **[breve descripción del objetivo del proyecto]**. Aquí, cada parte de este proyecto refleja nuestro esfuerzo conjunto para hacer un impacto real.
-
----
+¡El grupo **[GRUPO 5]** les da la bienvenida a nuestro sitio web! Este es el lugar donde documentamos nuestra pasión, avances y resultados en el desarrollo de nuestro proyecto.
 
 ## 📑 **Tabla de Contenidos** 📑
 
@@ -42,13 +38,19 @@ Nuestra visión es **[explicar lo que aspiran a lograr en el futuro con el proye
 
 ### **Objetivo General:**
 
-- **[Describe el objetivo principal de tu proyecto]**
+- Desarrollar una solución innovadora  que mejore la eficiencia, accesibilidad o sostenibilidad de los procesos existentes.
+- Crear un prototipo funcional que permita resolver un problema específico dentro del ámbito de área de ingeniería.
+- Implementar una solución tecnológica que optimice el uso de recurso o proceso específico mediante el uso de tecnología o metodología innovadora.
 
 ### **Objetivos Específicos:**
 
-- **[Objetivo específico 1]**
-- **[Objetivo específico 2]**
-- **[Objetivo específico 3]**
+- Investigar y analizar las soluciones actuales en área de interés para identificar áreas de mejora.
+- Diseñar y desarrollar un prototipo funcional utilizando tecnología/metodología para validar el concepto de tema del proyecto.
+- Evaluar el rendimiento del prototipo en condiciones reales y ajustar el diseño basado en los resultados obtenidos.
+- Implementar un sistema de pruebas automatizadas para garantizar la calidad y fiabilidad de la solución desarrollada.
+- Promover la colaboración interdepartamental para integrar diferentes perspectivas y optimizar el diseño final.
+- Documentar los resultados del proyecto y preparar un informe detallado sobre los procesos y hallazgos.
+
 
 ---
 
@@ -65,32 +67,13 @@ Nuestro enfoque es **[describir la metodología utilizada]**. Desarrollamos el p
 
 ## 👥 **¿Quiénes somos?**
 
-El equipo **[Nombre del Grupo]** está compuesto por individuos apasionados que aportan diversas habilidades para hacer de este proyecto una realidad. Conoce a nuestro equipo:
+El equipo  está compuesto por estudiantes apasionados que aportan diversas habilidades para hacer de este proyecto una realidad. Conoce a nuestro equipo
 
-- **LUIS VALENZUELA** – **[Breve descripción de Luis, sus habilidades o rol en el proyecto]**
-- **KARLA ORDINOLA** – **[Breve descripción de Karla, sus habilidades o rol en el proyecto]**
-- **ELVIS PILCO** – **[Breve descripción de Elvis, sus habilidades o rol en el proyecto]**
+- **LUIS VALENZUELA** 
+- **KARLA ORDINOLA** 
+- **ELVIS PILCO** 
 
 Cada miembro está comprometido con aportar su experiencia única y pasión para alcanzar las metas del proyecto.
-
----
-
-## 📬 **¡Contáctanos!**
-
-Si tienes alguna duda o deseas saber más sobre nuestro proyecto, ¡no dudes en escribirnos! Siempre estamos abiertos a nuevas ideas, colaboraciones y comentarios. ✉️
-
-- **Email**: [tuemail@ejemplo.com](mailto:tuemail@ejemplo.com)
-- **Redes Sociales**: [Twitter](https://twitter.com) | [LinkedIn](https://linkedin.com)
-
----
-
-### **[Nombre del Proyecto]**  
-**@** **[Año de creación]**  
-Subtítulos: **Grupo 5 - Fundamentos de Diseño**, Universidad UPCH  
-Objetivo del Proyecto: **[breve descripción del objetivo del proyecto]**  
-Contenido del Repositorio: **[descripción del contenido disponible]**
-
-
 
 <footer>
   <p>&copy; 2025 [Nombre del Proyecto]. Todos los derechos reservados.</p>
