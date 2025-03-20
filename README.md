@@ -5,72 +5,119 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>PROYECTO DE INGENIERÍA | [Nombre del Proyecto]</title>
   <style>
-    body {
-      font-family: 'Arial', sans-serif;
+    * {
       margin: 0;
       padding: 0;
-      background: #f3f4f6;
-      color: #333;
+      box-sizing: border-box;
     }
+
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background: linear-gradient(45deg, #6a5acd, #ff6347);
+      color: white;
+      line-height: 1.6;
+      padding: 20px;
+    }
+
     header {
       text-align: center;
-      background: #1a73e8;
-      color: white;
       padding: 50px 0;
-      border-bottom: 5px solid #ffcd00;
+      background: rgba(0, 0, 0, 0.4);
+      border-radius: 10px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      margin-bottom: 40px;
     }
+
     header h1 {
       font-size: 3.5rem;
-      margin: 0;
       font-weight: bold;
+      text-transform: uppercase;
+      letter-spacing: 3px;
+      animation: fadeIn 2s ease-in-out;
     }
+
     header p {
       font-size: 1.2rem;
+      font-style: italic;
+      color: #ffcd00;
       margin-top: 10px;
     }
-    section {
-      padding: 40px 20px;
-      margin: 0 10%;
-      background: #fff;
-      border-radius: 10px;
-      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+
+    @keyframes fadeIn {
+      0% { opacity: 0; }
+      100% { opacity: 1; }
     }
+
+    section {
+      margin: 20px auto;
+      max-width: 1000px;
+      background: rgba(255, 255, 255, 0.1);
+      border-radius: 15px;
+      padding: 40px;
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+      backdrop-filter: blur(5px);
+      transition: all 0.3s ease;
+    }
+
+    section:hover {
+      transform: scale(1.03);
+    }
+
     h2 {
-      color: #1a73e8;
+      color: #ff6347;
       font-size: 2.5rem;
       margin-bottom: 20px;
+      text-transform: uppercase;
     }
+
     h3 {
-      color: #ffcd00;
+      color: #fff;
       font-size: 1.8rem;
       margin-top: 30px;
     }
+
     p {
       font-size: 1.1rem;
-      line-height: 1.6;
+      color: #f5f5f5;
+      margin-bottom: 20px;
     }
+
     ul {
       list-style-type: none;
       padding: 0;
     }
+
     ul li {
-      background: #f3f4f6;
-      border: 2px solid #ddd;
+      background: rgba(255, 255, 255, 0.2);
+      margin-bottom: 12px;
       padding: 10px;
-      margin-bottom: 10px;
-      border-radius: 5px;
+      border-radius: 8px;
+      border: 2px solid #ff6347;
+      transition: background-color 0.3s ease;
     }
+
+    ul li:hover {
+      background-color: rgba(255, 255, 255, 0.4);
+    }
+
+    a {
+      text-decoration: none;
+      color: #ffcd00;
+      font-weight: bold;
+      transition: color 0.3s ease;
+    }
+
+    a:hover {
+      color: #ff6347;
+    }
+
     footer {
       text-align: center;
       padding: 20px;
-      background: #333;
-      color: white;
-      font-size: 1rem;
-      border-top: 5px solid #ffcd00;
-    }
-    .highlight {
+      background: #1a1a1a;
       color: #ffcd00;
-      font-weight: bold;
+      margin-top: 40px;
+      border-radius: 10px;
     }
   </style>
 </head>
@@ -82,8 +129,8 @@
 </header>
 
 <section>
-  <h2>Bienvenido a nuestro proyecto</h2>
-  <p>El grupo <span class="highlight">[Nombre del Grupo]</span> les da la bienvenida a nuestro website, cuyo propósito es dar a conocer la documentación de nuestra trayectoria en el desarrollo de [breve descripción del objetivo del proyecto].</p>
+  <h2>Bienvenido a nuestro Proyecto</h2>
+  <p>El grupo <strong>[Nombre del Grupo]</strong> les da la bienvenida a nuestro website, cuyo propósito es dar a conocer la documentación de nuestra trayectoria en el desarrollo de <span style="font-weight: bold; color: #ff6347;">[breve descripción del objetivo del proyecto]</span>. A través de esta página, podrás conocer más sobre nuestras ideas innovadoras y el impacto que buscamos generar en el ámbito de la ingeniería.</p>
 </section>
 
 <section>
@@ -99,18 +146,18 @@
 
 <section id="mision">
   <h2>Misión</h2>
-  <p>Nuestra misión es <span class="highlight">[explicar el propósito principal de tu proyecto]</span>. Buscamos <span class="highlight">[beneficios o impacto]</span> a través de <span class="highlight">[cómo planean lograrlo]</span>.</p>
+  <p>Nuestra misión es <span style="font-weight: bold; color: #ff6347;">[explicar el propósito principal de tu proyecto]</span>. Buscamos <span style="font-weight: bold; color: #ff6347;">[beneficios o impacto]</span> a través de <span style="font-weight: bold; color: #ff6347;">[cómo planean lograrlo]</span>.</p>
 </section>
 
 <section id="vision">
   <h2>Visión</h2>
-  <p>Nuestra visión es <span class="highlight">[explicar lo que aspiran a lograr en el futuro con el proyecto]</span>. Queremos <span class="highlight">[objetivo a largo plazo o meta]</span>. A través de <span class="highlight">[métodos, tecnología o enfoques]</span>, buscamos <span class="highlight">[impacto positivo]</span>.</p>
+  <p>Nuestra visión es <span style="font-weight: bold; color: #ff6347;">[explicar lo que aspiran a lograr en el futuro con el proyecto]</span>. Queremos <span style="font-weight: bold; color: #ff6347;">[objetivo a largo plazo o meta]</span>. A través de <span style="font-weight: bold; color: #ff6347;">[métodos, tecnología o enfoques]</span>, buscamos <span style="font-weight: bold; color: #ff6347;">[impacto positivo]</span>.</p>
 </section>
 
 <section id="objetivos">
   <h2>Objetivos</h2>
   <h3>Objetivo General:</h3>
-  <p><span class="highlight">[Describe el objetivo principal de tu proyecto.]</span></p>
+  <p><span style="font-weight: bold; color: #ff6347;">[Describe el objetivo principal de tu proyecto.]</span></p>
   
   <h3>Objetivos Específicos:</h3>
   <ul>
