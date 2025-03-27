@@ -71,7 +71,8 @@ El equipo  está compuesto por estudiantes apasionados que aportan diversas habi
 
 - **LUIS VALENZUELA** 
 - **KARLA ORDINOLA** 
-- **ELVIS PILCO** 
+- **ELVIS PILCO**
+- **ADIM GOMEZ**
 
 Cada miembro está comprometido con aportar su experiencia única y pasión para alcanzar las metas del proyecto.
 
