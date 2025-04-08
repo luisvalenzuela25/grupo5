@@ -18,7 +18,7 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
-  <img src=https://www.fao.org/images/corporatelibraries/sdg-logo/sdg06-en.svg?sfvrsn=f66586e0_18>
+  <img src=https://blog.edufors.com/wp-content/uploads/2018/09/ods6.jpg>
 
 ## 📑 **Tabla de Contenidos** 📑
 
