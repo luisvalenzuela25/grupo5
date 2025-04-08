@@ -18,12 +18,18 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s" alt="ODS" width="300px" />
   
 >United Nations Web
 <p align= "center">
    <img src=/>
 </p>
+# **ODS 6:**"Agua limpia y saneamiento"**
+<p align="center">
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s>
+</p>
+
+
 
 ## 📑 **Tabla de Contenidos** 📑
 
