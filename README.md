@@ -7,6 +7,19 @@
 
 *Buscamos poder desarrollar e implementar soluciones de "*
 
+## **MIEMBROS**
+
+
+**El equipo está conformado por:**
+- Ordinola Zapata Karla Maybe  **()** - KARLA.ORDINOLA@UPCH.PE
+- Gomez Rodriguez Adim Orfel  **()** - adim.gomez@upch.pe
+-  **()** - 
+-  **()** - 
+
+**SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
+<p align = "center">
+  <img src=https://aulas2030.net/wp-content/uploads/2021/02/S_SDG_inverted_WEB-06.png>
+
 ## 📑 **Tabla de Contenidos** 📑
 
 ¡Navega a través de nuestro proyecto! Elige tu sección favorita y comienza a explorar lo que hemos creado. 🚀
