@@ -18,12 +18,13 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
-  <img src=https://blog.edufors.com/wp-content/uploads/2018/09/ods6.jpg>
+  <img src="https://blog.edufors.com/wp-content/uploads/2018/09/ods6.jp"galt="ODS" width="300px">
 </p>
 >United Nations Web
 <p align= "center">
    <img src=/>
 </p>
+
 ## 📑 **Tabla de Contenidos** 📑
 
 ¡Navega a través de nuestro proyecto! Elige tu sección favorita y comienza a explorar lo que hemos creado. 🚀
