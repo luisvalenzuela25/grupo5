@@ -18,8 +18,7 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
-  <img src=https://blog.edufors.com/wp-content/uploads/2018/09/ods6.jp>](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Sustainable_Development_Goal-es-12.jpg/330px-Sustainable_Development_Goal-es-12.jpg)>
-</p>
+  <img src=https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-12.jpg>
 >United Nations Web
 <p align= "center">
    <img src=/>
