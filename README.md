@@ -18,7 +18,7 @@
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
-  <img src=[https://aulas2030.net/wp-content/uploads/2021/02/S_SDG_inverted_WEB-06.png](https://www.fao.org/images/corporatelibraries/sdg-logo/sdg06-en.svg?sfvrsn=f66586e0_18)>
+  <img src=https://www.fao.org/images/corporatelibraries/sdg-logo/sdg06-en.svg?sfvrsn=f66586e0_18>
 
 ## 📑 **Tabla de Contenidos** 📑
 
