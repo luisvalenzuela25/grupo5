@@ -14,11 +14,11 @@
 - Ordinola Zapata Karla Maybe  **()** - KARLA.ORDINOLA@UPCH.PE
 - Gomez Rodriguez Adim Orfel  **()** - adim.gomez@upch.pe
 - Elvis Deiwis Pilco Cruz **()** - elvis.pilco@upch.pe 
-- elvis.pilco@upch.pe  **()** - luis.valenzuela@upch.pe
+- Luis Martin Valenzuela Valer **()** - luis.valenzuela@upch.pe
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
-  <img src=https://upload.wikimedia.org/wikipedia/commons/c/ca/Sustainable_Development_Goal-es-12.jpg>
+  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s>
 >United Nations Web
 <p align= "center">
    <img src=/>
