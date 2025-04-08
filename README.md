@@ -8,7 +8,7 @@
 *Buscamos poder desarrollar e implementar soluciones de "*
 
 ## **MIEMBROS**
-
+[MÁS SOBRE NOSOTROS](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/01.Sobre_Nosotros.md)
 
 **El equipo está conformado por:**
 - Ordinola Zapata Karla Maybe  **()** - KARLA.ORDINOLA@UPCH.PE
