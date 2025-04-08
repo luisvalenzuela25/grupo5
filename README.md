@@ -23,8 +23,8 @@
 >United Nations Web
 <p align= "center">
    <img src=/>
-</p>
-Proyecto: **VitalEcoPower**
+</p> Proyecto: **VitalEcoPower**
+
 
 
 #**ODS 6: Agua Limpia y Saneamiento**
