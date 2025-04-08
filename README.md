@@ -1,13 +1,11 @@
-# PROYECTO DE INGENIERÍA
+# **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
+# **FUNDAMENTOS DE DISEÑO**
 
-> *"El único modo de hacer un gran trabajo es amar lo que haces."*  
-> **Steve Jobs**
+**Bienvenido al repositorio del Grupo 1 del curso Fundamentos de Diseño**
+# **INTRODUCCIÓN**
+*¡Hola!, somos el grupo 5 , y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevaremos a cabo en cada sesión durante el desarrollo del curso.*
 
----
-
-## Bienvenido 😎
-
-¡El grupo **GRUPO 5** les da la bienvenida a nuestro sitio web! Este es el lugar donde documentamos nuestra pasión, avances y resultados en el desarrollo de nuestro proyecto.
+*Buscamos poder desarrollar e implementar soluciones de "*
 
 ## 📑 **Tabla de Contenidos** 📑
 
