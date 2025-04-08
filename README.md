@@ -13,13 +13,17 @@
 **El equipo está conformado por:**
 - Ordinola Zapata Karla Maybe  **()** - KARLA.ORDINOLA@UPCH.PE
 - Gomez Rodriguez Adim Orfel  **()** - adim.gomez@upch.pe
--  **()** - 
--  **()** - 
+- Elvis Deiwis Pilco Cruz **()** - elvis.pilco@upch.pe 
+- elvis.pilco@upch.pe  **()** - luis.valenzuela@upch.pe
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
   <img src=https://blog.edufors.com/wp-content/uploads/2018/09/ods6.jpg>
-
+</p>
+>United Nations Web
+<p align= "center">
+   <img src=/>
+</p>
 ## 📑 **Tabla de Contenidos** 📑
 
 ¡Navega a través de nuestro proyecto! Elige tu sección favorita y comienza a explorar lo que hemos creado. 🚀
