@@ -37,7 +37,7 @@ Proyecto: **VitalEcoPower**
 ## **Definición de la ODS:** 
 
 
-### Trabajaremos en torno al punto 6
+### Trabajaremos en torno al punto 6.3.
 
 
 ## **OBJETIVO:**
