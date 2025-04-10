@@ -32,6 +32,16 @@ Proyecto: **VitalEcoPower**
   <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s>
 </p>
 
+>United Nations Web
+
+## **Definición de la ODS:** 
+
+
+### Trabajaremos en torno al punto 6
+
+
+## **OBJETIVO:**
+
 
 
 ## 📑 **Tabla de Contenidos** 📑
