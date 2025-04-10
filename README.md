@@ -11,10 +11,10 @@
 [MÁS SOBRE NOSOTROS](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/01.Sobre_Nosotros.md)
 
 **El equipo está conformado por:**
-- Ordinola Zapata Karla Maybe  **()** - KARLA.ORDINOLA@UPCH.PE
-- Gomez Rodriguez Adim Orfel  **()** - adim.gomez@upch.pe
-- Elvis Deiwis Pilco Cruz **()** - elvis.pilco@upch.pe 
-- Luis Martin Valenzuela Valer **()** - luis.valenzuela@upch.pe
+- Ordinola Zapata Karla Maybe  **(Gestora del Proyecto)** - Karla.ordinola@upch.pe
+- Gomez Rodriguez Adim Orfel  **(Coordinador de investigación)** - adim.gomez@upch.pe
+- Elvis Deiwis Pilco Cruz **(Coordinador de modelado 3D)** - elvis.pilco@upch.pe 
+- Luis Martin Valenzuela Valer **(Programador y Desarrollador de Software)** - luis.valenzuela@upch.pe
 
 **SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
 <p align = "center">
