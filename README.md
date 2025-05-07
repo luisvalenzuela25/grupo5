@@ -1,51 +1,107 @@
-# **UNIVERSIDAD PERUANA CAYETANO HEREDIA**
-# **FUNDAMENTOS DE DISEÑO**
+# [NOMBRE DEL PROYECTO]  
+**UNIVERSIDAD PERUANA CAYETANO HEREDIA**  
+**FUNDAMENTOS DE DISEÑO – GRUPO 5**
 
-**Bienvenido al repositorio del Grupo 5 del curso Fundamentos de Diseño**
-# **INTRODUCCIÓN**
-*¡Hola!, somos el grupo 5 , y vamos a utilizar este repositorio para compartir y cargar el proyecto que llevaremos a cabo en cada sesión durante el desarrollo del curso.*
+## 🌿 Bienvenidos
 
-*Buscamos poder desarrollar e implementar soluciones de "*
+¡Hola! Bienvenidos al sitio web oficial de nuestro proyecto, creado como parte del curso **Fundamentos de Diseño**.  
+Nuestro objetivo es desarrollar una solución de bajo costo que permita **monitorear la calidad del agua en humedales artificiales**, enfocándonos en parámetros clave como el **pH y la turbidez**, para promover un entorno sostenible y el acceso equitativo al agua limpia.
 
-## **MIEMBROS**
-[MÁS SOBRE NOSOTROS](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/01.Sobre_Nosotros.md)
+---
 
-**El equipo está conformado por:**
-- Ordinola Zapata Karla Maybe  **(Gestora del Proyecto)** - Karla.ordinola@upch.pe
-- Gomez Rodriguez Adim Orfel  **(Coordinador de investigación)** - adim.gomez@upch.pe
-- Elvis Deiwis Pilco Cruz **(Coordinador de modelado 3D)** - elvis.pilco@upch.pe 
-- Luis Martin Valenzuela Valer **(Programador y Desarrollador de Software)** - luis.valenzuela@upch.pe
+## 📑 Tabla de Contenidos
 
-**SIGUIENDO LOS OBJETIVOS DE DESARROLLO SOSTENIBLE**
-<p align = "center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s" alt="ODS" width="300px" />
-  
->United Nations Web
-<p align= "center">
-   <img src=/>
-</p> 
-Proyecto: **VitalEcoPower**
+- [🎯 Misión](#-misión)
+- [🌍 Visión](#-visión)
+- [🛠️ ¿Qué haremos?](#️-qué-haremos)
+- [👥 ¿Quiénes somos?](#-quiénes-somos)
+- [💧 ODS 6 y Contexto del Problema](#-ods-6-y-contexto-del-problema)
 
-# **ODS 6: Agua Limpia y Saneamiento**
+---
 
-<p align="center">
-  <img src=https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkZfYhaif7VptVizsU6CACe-C7H1mkTZN1HQ&s>
-</p>
+## 🎯 Misión
 
->United Nations Web
+Desarrollar soluciones prácticas y sostenibles para la **gestión, operación y monitoreo de humedales artificiales**, contribuyendo a mejorar la calidad del agua residual y reducir el impacto ambiental.  
+Buscamos integrar tecnología y compromiso social para lograr un tratamiento eficiente del agua.
 
-## **Definición de la ODS:** 
+---
 
+## 🌍 Visión
 
-### Trabajaremos en torno al punto 6.3.
+Diseñar un prototipo funcional para la **UPCH** que permita mejorar el tratamiento de aguas residuales en comunidades como **Santa María**, fomentando la reutilización del agua, reduciendo los costos de mantenimiento y contribuyendo a una **gestión más sostenible del recurso hídrico**.
 
+---
 
-## **OBJETIVO:**
+## 🛠️ ¿Qué haremos?
 
+Nuestro equipo creará un **prototipo de baja fidelidad** con capacidad para:
 
-<footer>
-  <p>&copy; 2025 [Nombre del Proyecto]. Todos los derechos reservados.</p>
-</footer>
+- Monitorear parámetros clave del humedal artificial (como pH).
+- Alertar automáticamente si el sistema detecta condiciones fuera de lo óptimo.
+- Enviar los datos a una base de datos accesible para su seguimiento en tiempo real.
 
-</body>
-</html>
+Este prototipo ayudará a prevenir fallas en el sistema de tratamiento y facilitará su mantenimiento.
+
+---
+
+## 👥 ¿Quiénes somos?
+
+El equipo está conformado por:
+
+- **Ordinola Zapata Karla Maybe** – Gestora del Proyecto  
+  📧 karla.ordinola@upch.pe
+
+- **Gomez Rodriguez Adim Orfel** – Coordinador de Investigación  
+  📧 adim.gomez@upch.pe
+
+- **Elvis Deiwis Pilco Cruz** – Coordinador de Modelado 3D  
+  📧 elvis.pilco@upch.pe
+
+- **Luis Martin Valenzuela Valer** – Programador y Desarrollador de Software  
+  📧 luis.valenzuela@upch.pe
+
+---
+
+## 💧 ODS 6 y Contexto del Problema
+
+### Objetivo de Desarrollo Sostenible 6: Agua limpia y saneamiento  
+**Meta 6.1:** Lograr el acceso universal y equitativo al agua potable a un precio asequible para todos.
+
+---
+
+### 🔍 Problema Detectado
+
+En zonas como **Apurímac**, la **alta turbidez** del agua durante las lluvias afecta la salud pública y dificulta la potabilización. Las causas principales incluyen:
+
+- Erosión de suelos.
+- Actividades humanas como la minería informal.
+- Ausencia de sistemas de monitoreo en tiempo real.
+
+---
+
+### 🌎 Impactos Multinivel
+
+- **Global:** La turbidez reduce la efectividad de la desinfección y genera más uso de químicos.
+- **Regional (Ecuador):** Actividades mineras y lluvias aumentan la turbidez en comunidades como *El Ceibo*.
+- **Nacional (Perú):** Ciudades como Lima, Arequipa y Piura enfrentan interrupciones del servicio de agua por alta turbidez.
+
+---
+
+### 📉 Impacto Económico
+
+- Mayor consumo de productos químicos.
+- Interrupciones del servicio en hospitales, hogares y escuelas.
+- Incremento en los costos operativos de empresas como **Sedapal**.
+
+---
+
+### ⚙️ Nuestra Propuesta
+
+- Implementar **sensores** para medir turbidez.
+- Enviar **alertas automáticas** cuando los niveles estén fuera del rango ideal.
+- Facilitar decisiones rápidas y eficaces para evitar impactos en la salud y el ambiente.
+
+---
+
+## 📅 Año: 2025  
+**© 2025 [Nombre del Proyecto]. Todos los derechos reservados.**
