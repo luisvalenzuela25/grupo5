@@ -24,7 +24,7 @@ Esta lectura fue rápida pero muy útil. Me llevé ideas prácticas, como manten
 ## 📸 Evidencias de preguntas resueltas:
 
 **pregunta1**  
-![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta1.png?raw=true)
+![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta1.png)
 
 **pregunta2**  
 ![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta2.png?raw=true)
