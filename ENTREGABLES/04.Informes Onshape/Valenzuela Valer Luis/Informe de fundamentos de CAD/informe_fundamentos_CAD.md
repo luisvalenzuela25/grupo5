@@ -43,6 +43,6 @@ Este curso me ayudó a generar planos técnicos a partir de mis modelos. Aprend�
 ![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/dibujo%20intermedio%20detallado.png?raw=true)
 
 **Figura 5 – lista de materiales :**  
-![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/lista%20de%20materiales.png?raw=true)
+![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/lista%20de%20materiales.png)
 
 ---
