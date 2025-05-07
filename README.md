@@ -4,7 +4,7 @@
 
 ##  Bienvenidos
 
-¡Hola! Bienvenidos al sitio web oficial de nuestro proyecto, desarrollado como parte del curso **Fundamentos de Diseño**. Este trabajo tiene como eje el **Objetivo de Desarrollo Sostenible (ODS) N.º 6: Agua limpia y saneamiento**, con un enfoque en el monitoreo de **turbidez** en cuerpos de agua afectados por factores tanto naturales como humanos. Nos enfocamos en crear una solución accesible y efectiva para ayudar a comunidades vulnerables como Santa María a mejorar la calidad del agua, reduciendo riesgos tanto a la salud como al medio ambiente.
+¡Hola! Bienvenidos al sitio web oficial de nuestro proyecto, desarrollado como parte del curso **Fundamentos de Diseño**. Este trabajo tiene como eje el **Objetivo de Desarrollo Sostenible (ODS) N.º 6: Agua limpia y saneamiento**, con un enfoque en el monitoreo de **turbidez** en cuerpos de agua afectados por factores tanto naturales como humanos. Nos enfocamos en crear una solución accesible y efectiva para ayudar a comunidades vulnerables a mejorar la calidad del agua, reduciendo riesgos tanto a la salud como al medio ambiente.
 
 ---
 
