@@ -37,7 +37,7 @@ Nuestra misión es **desarrollar soluciones sostenibles, accesibles y de bajo co
 
 ##  Visión
 
-Nuestra visión es diseñar y probar un prototipo funcional para la **UPCH** que permita mejorar el tratamiento de aguas residuales en comunidades vulnerables. Buscamos fomentar la **reutilización del agua** y contribuir a una **gestión más sostenible del recurso hídrico**, lo que se traducirá en un impacto positivo tanto en la salud de las comunidades como en la preservación del ambiente.
+Nuestra visión es diseñar y probar un prototipo funcional que permita mejorar el tratamiento de aguas residuales en comunidades vulnerables. Buscamos fomentar la **reutilización del agua** y contribuir a una **gestión más sostenible del recurso hídrico**, lo que se traducirá en un impacto positivo tanto en la salud de las comunidades como en la preservación del ambiente.
 
 ---
 
