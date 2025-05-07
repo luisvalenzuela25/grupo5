@@ -31,7 +31,7 @@ Este curso me ayudó a generar planos técnicos a partir de mis modelos. Aprend�
 ![Croquis con restricciones](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/boceto%20intermedio.png)
 
 **Figura 2 – acoplamiento:**  
-![Modelo de freno](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/acoplamiento.png?raw=true)
+![Modelo de freno](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/acoplamiento.png)
 
 **Figura 3 – guiado de cohetes:**  
 ![Ensamble](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/guiado%20de%20cohetes.png?raw=true)
