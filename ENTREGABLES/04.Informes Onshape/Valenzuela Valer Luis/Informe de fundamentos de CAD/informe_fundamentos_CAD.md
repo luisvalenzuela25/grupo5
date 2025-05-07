@@ -37,7 +37,7 @@ Este curso me ayudó a generar planos técnicos a partir de mis modelos. Aprend�
 ![Ensamble](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/guiado%20de%20cohetes.png)
 
 **Figura 4 – ensamblaje:**  
-![Dibujo técnico](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/ensamblaje%20intermedio.png?raw=true)
+![Dibujo técnico](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/ensamblaje%20intermedio.png)
 
 **Figura 5 – dibujo intermedio detallado :**  
 ![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20fundamentos%20de%20CAD/imagenes%20de%20ejercicios/dibujo%20intermedio%20detallado.png?raw=true)
