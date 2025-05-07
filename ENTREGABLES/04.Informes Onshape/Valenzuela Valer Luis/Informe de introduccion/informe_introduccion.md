@@ -33,7 +33,7 @@ Esta lectura fue rápida pero muy útil. Me llevé ideas prácticas, como manten
 ![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta3.png)
 
 **pregunta4**  
-![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta4.png?raw=true)
+![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/ENTREGABLES/04.Informes%20Onshape/Valenzuela%20Valer%20Luis/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta4.png)
 
 **pregunta5**  
 ![Cuestionario respondido](https://github.com/luisvalenzuela25/grupo5/blob/main/Informes%20Onshape/Valenzuela%20Valer%20Luis/informes/Informe%20de%20introduccion/imagenes%20de%20ejercicios/pregunta5.png?raw=true)
