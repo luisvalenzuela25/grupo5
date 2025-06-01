@@ -1,8 +1,12 @@
 <h1 align="center"><strong>AQUATURB</strong></h1>
 <p align="center"><strong>UNIVERSIDAD PERUANA CAYETANO HEREDIA</strong></p>
 <p align="center"><strong>FUNDAMENTOS DE DISEÑO – GRUPO 5</strong></p>
-
----
+<br>
+<br>
+<p align="center">
+  <img src="https://s6.ezgif.com/tmp/ezgif-6b819185cae0d7.gif" alt="AquaTurb Demo" />
+</p>
+<br>
 
 ## Bienvenidos
 
