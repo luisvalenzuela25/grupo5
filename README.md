@@ -4,7 +4,7 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://s6.ezgif.com/tmp/ezgif-6b819185cae0d7.gif" alt="AquaTurb Demo" />
+  <img src="https://github.com/Helvis69/AquaTurb/blob/main/sensor.gif" alt="AquaTurb Demo" />
 </p>
 <br>
 
